@@ -1,0 +1,2 @@
+# blog
+building blog functions
